@@ -1,4 +1,3 @@
-#!/bin/bash
 allpassed=1
 
 for i in {1..4}; do
